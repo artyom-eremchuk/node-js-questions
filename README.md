@@ -7,18 +7,18 @@
 
 ### Синхронное и асинхронное программирование
 
-- [Синхронное и асинхронное программирование](01_async/04.md).
-- [Колбеки, промисы и async/await](01_async/05.md).
-- [Цикл событий (Event Loop)](01_async/06.md).
+- [Синхронное и асинхронное программирование](01_async/00.md).
+- [Колбеки, промисы и async/await](01_async/01.md).
+- [Цикл событий (Event Loop)](01_async/02.md).
 
 ### Основы Express.js
 
-- [Маршруты, миддлвеары, рендеринг HTML](02_express/07.md).
-- [Простые CRUD операции](02_express/08.md).
-- [Работа с формами и файлами](02_express/09.md).
+- [Маршруты, миддлвеары, рендеринг HTML](02_express/00.md).
+- [Простые CRUD операции](02_express/01.md).
+- [Работа с формами и файлами](02_express/02.md).
 
 ### Введение в базы данных
 
-- [Введение в реляционные базы данных (MySQL, PostgreSQL)](03_database/10.md).
-- [Использование ORM (Object-Relational Mapping): Sequelize, Prisma](03_database/11.md).
-- [Базовое взаимодействие с MongoDB и Mongoose](03_database/12.md).
+- [Введение в реляционные базы данных (MySQL, PostgreSQL)](03_database/00.md).
+- [Использование ORM (Object-Relational Mapping): Sequelize, Prisma](03_database/01.md).
+- [Базовое взаимодействие с MongoDB и Mongoose](03_database/02.md).
