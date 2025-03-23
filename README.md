@@ -16,3 +16,9 @@
 - [Маршруты, миддлвеары, рендеринг HTML](02_express/07.md).
 - [Простые CRUD операции](02_express/08.md).
 - [Работа с формами и файлами](02_express/09.md).
+
+### Введение в базы данных
+
+- [Введение в реляционные базы данных (MySQL, PostgreSQL)](03_database/10.md).
+- [Использование ORM (Object-Relational Mapping): Sequelize, Prisma](03_database/11.md).
+- [Базовое взаимодействие с MongoDB и Mongoose](03_database/12.md).
